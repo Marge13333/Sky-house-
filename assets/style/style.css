@@ -1,0 +1,159 @@
+/*----------body----------*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, li{
+    list-style-type: none;
+    
+}
+a{
+   text-decoration: none; 
+   font-size: 16px;
+   color: #ffffff;
+   font-family: "ALK Sanet", sans-serif;
+
+
+}
+/*------------header--------------*/
+header{
+    height: 387.56px;
+    background-color: #0020F4;   
+    padding: 40px 240px;
+}
+nav, nav ul, nav li{
+    display: inline-block;
+    
+
+}
+
+nav li, 
+.logo{
+    vertical-align: middle;
+    padding-left: 40px;
+    
+    
+}
+.button-con{
+    background-color: #FFFFFF;
+    color: #171717;
+    font-size: 16px;
+    padding: 18px 40px;
+    border-radius: 28px;
+}
+/*-------------section-------------*/
+section{
+    max-width: 1200px;
+	width: 100%;
+	margin: auto;
+    margin-top: -130px;
+}
+.into-img{
+    max-width: 1195px;
+    width: 100%;
+}
+.disc-img{
+    max-width: 219px;
+    width: 100%;
+    margin-left: 13px;
+}
+h1{
+    font-size: 28px;
+    color: #171717;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    font-family: "ArchyEDT-Bold", sans-serif;
+
+}
+.disc-img_list{
+    text-align: center;
+    
+}
+.disc-text{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+section p{
+    max-width:900px;
+    font-size: 16px;
+    color: #171717;
+    padding: 6px;
+    margin: auto;
+    font-family: "Arial GEO", sans-serif;
+
+    
+}
+.disc-button{
+    max-width: 300px;
+    color: #FFFFFF;
+    font-size: 16px;
+    text-decoration: none;
+    list-style-type: none;
+    background-color:#0A22F4 ;
+    border: 1px solid #0A22F4;
+    border-radius: 28px;
+    padding: 18px 77px;
+    margin-left: 430px;
+}
+/*------------fotter-----------*/
+footer{
+    margin-top: 200px;
+    height: 1080px;
+    background-color: #0A22F4;
+    padding: 275px 240px;
+}
+h2{
+    color: #FFFFFF;
+    font-size: 32px;
+    padding-bottom: 30px;
+    font-family: "ArchyEDT-Bold", sans-serif;
+
+}
+footer p{
+    max-width: 463px;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: "Arial GEO", sans-serif;
+
+}
+.map{
+    
+   margin-top: 60px;
+    border-radius: 15px;
+    margin-bottom: 90px;
+}
+ footer img, h3{
+    display: inline-block;
+    vertical-align: middle;
+    
+    
+}
+
+.footer_icons-1{
+    background-color: #FFFFFF;
+    padding: 22px;
+    border: 1px solid #0A22F4 ;
+    border-radius: 50%;
+    
+    
+    
+    
+}
+.footer_icons-2{
+    background-color: #FFFFFF;
+    padding: 22px;
+    border: 1px solid #0A22F4 ;
+    border-radius: 50%;
+    margin-left: 120px;
+    
+    
+}
+h3{
+    font-size: 22px;
+    color: #FFFFFF;
+    margin-left: 20px;
+    
+
+}
