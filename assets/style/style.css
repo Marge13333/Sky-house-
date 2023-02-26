@@ -1,4 +1,12 @@
 /*----------body----------*/
+@font-face {
+    font-family: Helvetica Neue;
+    src: url(/assets/fonts/Helvetica\ Neue\ Regular.otf);
+}
+@font-face {
+    font-family:Helvetica Bold ;
+    src: url(/assets/fonts/Helvetica\ Neue\ Condensed\ Bold.ttf);
+}
 *{
     margin: 0;
     padding: 0;
@@ -13,7 +21,7 @@ a{
    text-decoration: none; 
    font-size: 16px;
    color: #ffffff;
-   font-family: "ALK Sanet", sans-serif;
+   font-family: Helvetica Neue;
 
 
 }
@@ -64,7 +72,7 @@ h1{
     color: #171717;
     padding-top: 30px;
     padding-bottom: 50px;
-    font-family: "ArchyEDT-Bold", sans-serif;
+    font-family:Helvetica Bold ;
 
 }
 .disc-img_list{
@@ -81,7 +89,7 @@ section p{
     color: #171717;
     padding: 6px;
     margin: auto;
-    font-family: "Arial GEO", sans-serif;
+    font-family: Helvetica Neue;
 
     
 }
@@ -108,14 +116,14 @@ h2{
     color: #FFFFFF;
     font-size: 32px;
     padding-bottom: 30px;
-    font-family: "ArchyEDT-Bold", sans-serif;
+    font-family:Helvetica Bold ;
 
 }
 footer p{
     max-width: 463px;
     font-size: 16px;
     color: #FFFFFF;
-    font-family: "Arial GEO", sans-serif;
+    font-family: Helvetica Neue;
 
 }
 .map{
